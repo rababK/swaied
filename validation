@@ -1,0 +1,13 @@
+Show performance for the following pages:
+
+1- The admin report included viewing three fields (date of the report, supervisor, and report writing field)
+On this page comes an error message to correct or fill in a box that contains {please fill out this field}.
+
+2- The page to add an advertisement and it includes two fields (the title and the content of the advertisement).
+On this page there are also error messages such as the admin report page
+
+3- The page for adding an item to the store. This page includes three boxes (the name of the item, the amount, and the unit).
+This page appears like the previous pages.
+
+4- The comment page, which includes only one field (your comment)
+If this field is not filled out, an error message will appear like the previous pages.
