@@ -1,0 +1,12 @@
+This is documentation for test file which contain 4 function to assert If the user login was true
+If the user log use the true email and the true password then assert valid will return true 
+
+In other Cases
+True email wrong password 
+
+
+Wrong email true password
+
+Wrong email and wrong password the the function
+
+Assert (not equal) would return true.
