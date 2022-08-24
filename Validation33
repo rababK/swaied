@@ -1,0 +1,25 @@
+validation was done for 6 fields :
+1-  create account  (Admin , supervisor , volunteer) : 
+
+* If the user does not enter data for any of the fields, this message appears (please fill out this field).
+
+* If the user enters an incorrect email (without @) this message appears (please include an '@' in the email address , 'rraniababikerrgmail.com' is missing an '@' .) .
+
+* In the event that the user enters a tag (dot) for the email in an incorrect position, this message appears ('.' is used at wrong position in '.com' )
+
+* When entering (@) in an incorrect position, this message appears (A part following '@' should not contain the symbol '@' )
+
+* If the user enters a password, its length will be validated. If the password is less than 4 characters long, this message appears (please lengthen this text to 4 charactersor more (you are currently using 3 characters))  , If you try to enter a password of more than 8 characters, the entry will be stopped automatically when 8 characters are reached ,  If the password length is from 4 to 8 characters, an error message does not appear, then the entry is correct .
+
+*If the user enters the password confirmation data, it will be validated, if the password confirmation data does not match the password data, this message appears (password did not match) If the data matches, this message appears (passwordcreated successfully).
+
+* If one of the gender options is not selected, this message will appear (please select one of these options).
+
+2 -  login (admin , supervisor , volunteer) :
+
+* If the user enters an incorrect email (without @) this message appears (please include an '@' in the email address , 'rraniababikerrgmail.com' is missing an '@' .) .
+
+* If the user enters a password, its length will be validated. If the password is less than 4 characters long, this message appears (please lengthen this text to 4 charactersor more (you are currently using 3 characters))  , If you try to enter a password of more than 8 characters, the entry will be stopped automatically when 8 characters are reached ,  If the password length is from 4 to 8 characters, an error message does not appear, then the entry is correct .
+
+* If the user does not enter data for any of the fields, this message appears (please fill out this field).
+* If all data is entered correctly, can log in.
