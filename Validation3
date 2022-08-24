@@ -1,0 +1,8 @@
+The validation was created from (supervisor acount,admin acoun,voluntier acount)
+1. If the user does not enter anything that appears to him (please fill out this filled) in the filled of (enter full name and id).
+in id if the user enter letter appears (please inter number).
+2. In the gender option, if the type is not specified, a message with its content appears (please select one of these option).
+3. If the user enters an incorrect email (without @) this message appears (please include an '@' in the email address , 'frrjfr gmail.com' is missing an '@' ).
+4. When the user enters the password as required, a message containing (Please enter atleast 8 charatcer with number, symbol, small and
+capital letter.)
+5. If the user enters the password in the password field, and in the password verification field, a password that does not match, a message with its content (Password don't match) appears.
